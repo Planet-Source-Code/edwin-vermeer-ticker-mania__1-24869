@@ -1,0 +1,17 @@
+frmTextAnimation = 9, 58, 768, 780, C, 27, 17, 655, 563, C
+TextAnimation = 3, 70, 869, 778, C, 256, 120, 652, 463, C
+modTransparentForm = 85, 81, 808, 769, C
+cDIBSection = 70, 103, 517, 935, C
+Gradient = 35, 103, 482, 935, C
+ctlGlobe = 70, 110, 736, 783, C, 404, 107, 851, 887, C
+FormTransparancy = 76, 103, 936, 935, C, 428, 146, 875, 926, C
+GradientButton = 19, 108, 869, 794, C, 298, 115, 745, 895, C
+frmMainMenu = 37, 75, 786, 768, C, 17, 20, 579, 538, C
+frmVolume = -20, 66, 658, 846, C, 84, 103, 655, 455, C
+frmBrowser = 1, 75, 851, 727, C, 22, 22, 504, 444, C
+frmSystemTrayTicker = 7, 77, 826, 857, C, 88, 88, 570, 510, C
+frmDockBrowser = 24, 99, 839, 696, C, 44, 44, 526, 466, C
+TAppBar = 296, 95, 845, 927, C
+CBAppBar = 103, 103, 802, 935, C
+VerticalTitleBar = 47, 5, 618, 616, C, 302, 56, 466, 474, C
+frmTransparentTicker = 103, 103, 780, 883, C, 132, 132, 636, 520, C
